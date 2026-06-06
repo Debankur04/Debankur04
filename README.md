@@ -1,27 +1,48 @@
-# Hi 👋, I'm Debankur Dutta
+# Hey, I'm Debankur 👋
 
-### A AI ML + Backend developer mastering python and building agents so that I can justify being LAZY.
+I'm an **AI/ML + Backend Engineer** based in India, mastering Python and building intelligent systems — agents, pipelines, and APIs that actually do something useful.
 
-- 🔭 I'm currently working on **An agentic agent project including finance. Stick around to know more 🤫.**
+My philosophy is simple: automate the boring, ship the interesting, and write code that makes me look like I worked harder than I did.
 
-- 🌱 I'm currently learning **LangGraph, CrewAI, AP2 Protocol**
+---
 
-- 💬 Ask me about **Machine Learning, AIs, Overfitting and hustle to get an offer.**
+### What I do
 
-- 📫 How to reach me **debankurdutta04@gmail.com**
+I build AI-powered systems that turn complex workflows into automated experiences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Debankur04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Debankur04" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/debankur-dutta-8871a22b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debankur Dutta" height="30" width="40" /></a>
-<a href="https://kaggle.com/debankurdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debankurdutta" height="30" width="40" /></a>
-<a href="https://leetcode.com/debankurdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debankurdutta04" height="30" width="40" /></a>
-</p>
+Recently, I've been focused on agentic AI, designing applications that can research, reason, and execute tasks with minimal human intervention.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+Beyond machine learning models, I enjoy building the backend systems that make AI applications reliable in production—from APIs and orchestration layers to databases, asynchronous workflows, and deployment infrastructure.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debankur04&show_icons=true&locale=en&layout=compact" alt="Debankur04" /></p>
+Right now, I'm exploring multi-agent architectures, tool-calling systems, memory-enabled agents, and autonomous workflows, with the goal of building AI products that do more than answer questions—they get things done.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debankur04&show_icons=true&locale=en" alt="Debankur04" /></p>
+---
 
+### How I build
+
+**AI/ML** — Python · TensorFlow · Keras · scikit-learn · ONNX · Hugging Face · MLflow · LangChain · LangGraph · CrewAI
+
+**Backend** — FastAPI · Django · Express · Node.js · REST APIs · async Python
+
+**Data** — PostgreSQL · MongoDB · MySQL · Redis · Firebase · Supabase
+
+**Infra & Tooling** — Docker · Git · Postman · Jupyter
+
+**Frontend (when needed)** — React · Next.js · Tailwind CSS
+
+---
+
+### What I'm working on
+
+- An Agentic Travel Planner - A Project that turns a planning desire prompt to a researched planned itenary within seconds.
+- An AI image detector - A project that takes images, batch infers them and send a report straight to your email with details about which images are ai influenced.
+
+---
+
+### Connect
+
+[GitHub](https://github.com/Debankur04) · [LinkedIn](https://www.linkedin.com/in/debankur-dutta-8871a22b0/) · [Kaggle](https://kaggle.com/debankurdutta) · [LeetCode](https://leetcode.com/debankurdutta04) · debankurdutta04@gmail.com
+
+---
+
+*Ask me about ML, overfitting, or the hustle it takes to get an offer.*
