@@ -41,7 +41,7 @@ Right now, I'm exploring multi-agent architectures, tool-calling systems, memory
 
 ### Connect
 
-[GitHub](https://github.com/Debankur04) · [LinkedIn](https://www.linkedin.com/in/debankur-dutta-8871a22b0/) · [Kaggle](https://kaggle.com/debankurdutta) · [LeetCode](https://leetcode.com/debankurdutta04) · debankurdutta04@gmail.com
+[GitHub](https://github.com/Debankur04) · [LinkedIn](https://www.linkedin.com/in/debankur-dutta-8871a22b0/) · [Kaggle](https://kaggle.com/debankurdutta) · [LeetCode](https://leetcode.com/debankurdutta04) · debankurdutta04@gmail.com · [Portfolio](https://www.debankurdutta.me/) 
 
 ---
 
